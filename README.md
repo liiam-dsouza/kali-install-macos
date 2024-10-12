@@ -22,7 +22,7 @@ For the Virtual Hard Disk, a good minimum is 10 GB, however if your device has a
 
 Read through the summary at the end to make sure everything is configured correctly, then click finish to create the VM.
 
-# Installing Kali Linux on the VM
+# 4. Installing Kali Linux on the VM
 Click on the new VM you just made on the left menu, it should be highlighted blue. Click on the settings cog at the top and scroll down to the display section. Change the scale factor to 200% so the VM window appears larger (it is very small by default). Click ok to apply this change, then click on the green start button at the top of the screen.
 
 Click into the VM window and use the down arrow key to select the graphical install option and hit enter to select it.
@@ -39,5 +39,5 @@ For the software selection, select `Desktop environment` and make sure it is the
 
 Once the installation completes, click continue to boot into the system. Once it loads, select the top option, then log in with the username and password you set during the installation.
 
-# Congratulations!
+# 5. Congratulations!
 If you have followed all of the steps, you would have been able to boot into a Kali Linux VM running on MacOS!
